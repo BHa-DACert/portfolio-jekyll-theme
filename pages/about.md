@@ -4,6 +4,9 @@ title: About
 permalink: /about
 ---
 
-# Portfolio Jekyll Theme
+# Bryant's Porfolio
 
-This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
+This is a demo porfolio site using the Jekyll theme.
+My name is Bryant and I am in the process of earning my Data Analysis Certification from Imperial College Business School. I currently reside in the United States and work as a Data Solutions Analyst for Securitas. I come from a non-traditional educational background, and although I have no college degree, I have been working in various fields since I was 18. I first made my pivot towards corporate work 6 years ago and have been working in this space since.
+Since my transition into the the data analytics space, I've primarily worked with integrations between SmartSheets and Excel into Power BI, cleaning the data in Power Query and DAX while visualizing data through Power BI's built-in tools. I've also built automations in SmartSheets and Microsoft Flow and have recently started dabbling in PowerApps to build and maintain solutions for our client.
+Outside of work, I often spend my time playing videogames on my PC and focusing on improving my digital art skills.
